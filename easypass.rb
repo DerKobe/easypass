@@ -1,3 +1,5 @@
+#!/usr/bin/ruby
+
 WORDCOUNT = 4
 SEPARATOR = '-'
 
